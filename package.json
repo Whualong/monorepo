@@ -1,0 +1,25 @@
+{
+  "name": "monorepo-1",
+  "private": true,
+  "version": "1.0.0",
+  "description": "实践monorepo的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whualong/monorepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whualong/monorepo/issues"
+  },
+  "homepage": "https://github.com/Whualong/monorepo#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "typescript": "^4.6.3"
+  }
+}
